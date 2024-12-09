@@ -1,6 +1,6 @@
-# 🍌 Meal Listing Application
+# Meal Listing Application
 
-Welcome to Go Bananas, a meal listing application that helps you explore, search, and favorite meals from a variety of cuisines! 🍽️
+Welcome to Marrfa, a meal listing application that helps you explore, search, and favorite meals from a variety of cuisines! 🍽️
 
 ## 🚀 Features
 
