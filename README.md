@@ -30,7 +30,7 @@ For any questions or suggestions, feel free to contact me at jasonryder786@gmail
 
   **Folder Structure**:
    ```sh
-     go-bananas/
+     marrfa-assignment/
        ├── public/
        │   └── index.html
        ├── src/
