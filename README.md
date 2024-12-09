@@ -10,15 +10,15 @@ Welcome to Marrfa, a meal listing application that helps you explore, search, an
 - **Pagination**: Navigate through meals with ease using pagination. ⏩
 
 ##  📧 Contact
-For any questions or suggestions, feel free to contact me at prince.2125cs1174@gmail.com.
+For any questions or suggestions, feel free to contact me at jasonryder786@gmail.com.
 
 
 ## 🛠️ Installation
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/go-bananas.git
-   cd go-bananas
+   git clone https://github.com/syedcoder786/marrfa-assignment
+   cd marrfa-assignment
 2. **Install the Dependencies**:
    ```sh
    npm install
